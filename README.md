@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="left" height=170px width=400px  src="https://github-readme-stats.vercel.app/api?username=keestep&show_icons=true" />
-<img align="right" height=170px width=400px src="https://github-readme-stats.vercel.app/api/top-langs/?username=keestep&layout=compact&langs_count=10" />
+[![Gist Card](https://github-readme-stats.vercel.app/api?username=keestep&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keestep&layout=compact&langs_count=10)
